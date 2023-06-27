@@ -5,13 +5,11 @@ A react project that recreates the popular dice game Tenzies
 
 Project in Action - [Tenzies](https://eloquent-mousse-c0340e.netlify.app/)
 
-### Screenshot
+### Screenshots
 
 ![screenshot](/src/assets/tenzies-startgame.png)
 
 ![screenshot](/src/assets/tenzies-endgame.png)
-
-![screenshot](/tenzies-endgame.png)
 
 
 ### Built with
