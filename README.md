@@ -11,6 +11,8 @@ Project in Action - [Tenzies](https://eloquent-mousse-c0340e.netlify.app/)
 
 ![screenshot](/src/assets/tenzies-endgame.png)
 
+![screenshot](/tenzies-endgame.png)
+
 
 ### Built with
 
